@@ -19,7 +19,7 @@ This Flutter app integrates with Back4App to provide a simple task management sy
    - In the Back4App dashboard, create a class named "Task" with columns "title" (String) and "description" (String).
 
 2. **Flutter Setup:**
-   - Clone this repository: [GitHub Repository Link].
+   - Clone this repository: [[GitHub Repository Link](https://github.com/2022mt93699/Back4App-Integration-Assignment.git)].
    - Open the project in your preferred Flutter development environment (e.g., VS Code, Android Studio).
    - Run `flutter pub get` to fetch the dependencies.
    - Initialize the Parse SDK in your Flutter app. Update the `applicationId` and `clientKey` in the `main.dart` file with your Back4App credentials.
@@ -62,4 +62,4 @@ This Flutter app integrates with Back4App to provide a simple task management sy
 
 - *Any other bonus features or enhancements you implemented.*
 
-**Note:** Ensure that your Back4App credentials and any sensitive information are not exposed in your public repository. You may use environment variables or a configuration file for such sensitive data.
+**Note:** Ensure that your Back4App credentials and any sensitive information are not exposed in our public repository.
